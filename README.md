@@ -1,2 +1,7 @@
 # hello-world
-just another repository
+
+Hi Everybody!
+
+Life is an
+ART
+Without using ERASER....
